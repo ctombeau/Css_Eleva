@@ -1,0 +1,34 @@
+/*header*/
+
+.img img
+{
+    height: 80px;
+    width: 150px;
+    padding-left: 100px;
+}
+
+.text-header
+{
+    font-size: 12px;
+    float: right;
+}
+
+.header 
+{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.nav
+{
+    padding-left: 100px;
+}
+
+/*font*/
+.font .font-img img
+{
+    width: 100%;
+    height: 500px;
+    image-rendering: -webkit-optimize-contrast;
+}
